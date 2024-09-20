@@ -3,7 +3,7 @@
 
 # examples
 
-#### In image from 'sm2players.gif', at position (2,0) [-x,-y]  get pixels wide 24 , high 40 [-W24, -H40] from color table 1 [-c1]
+#### In image from 'smb2players.gif', at position (2,0) [-x,-y]  get pixels wide 24 , high 40 [-W24, -H40] from color table 1 [-c1]
 
 
 `./mfetch.py -x2 -y0 -W24 -H40 -c1 ./smb2players.gif > my;chmod +x my; ./my` -> Mario (looking left)
