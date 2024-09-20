@@ -55,13 +55,15 @@ in the examples you have to add a new one yourself:
 - now substitute the colors 
   the meaning of the colors is in the code (as comments)
 
-# f0=black, f1=red, f2=green, f3=yellow, f4=blue, f5=magenta, f6=cyan, f7=white
-# g0=bright black, g1=bright red, g2=bright green, g3=bright yellow, g4=bright blue, g5=bright magneta, g6=bright cyan, g7=bright white
+##### f0=black, f1=red, f2=green, f3=yellow, f4=blue, f5=magenta, f6=cyan, f7=white
+##### g0=bright black, g1=bright red, g2=bright green, g3=bright yellow, g4=bright blue, g5=bright magneta, g6=bright cyan, g7=bright white
 `col3=["$f0","$f1","$f2","$f3","$f4","$f5","$f6","$f7","$g0","$g1","$g2","$g3","$g4","$g5","$g6","$g7"]`
 
 - now, IF 'Marios pants' were 'bright red' instead of 'blue' what would we do?
+  
   we'd search for the index of 'bright red' and put there the index of 'blue'
-                                 /->------------------------->-\\
+
+`                                .>--------------------------->.                                       `
 `col3=["$f0","$f1","$f2","$f3","$f4","$f5","$f6","$f7","$g0","$g1","$g2","$g3","$g4","$g5","$g6","$g7"]`
 
 - so it looks like that
