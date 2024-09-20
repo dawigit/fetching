@@ -12,6 +12,10 @@
 
 The goal is to add a touch of beauty to your terminal, and trigger a sense of play.
 
+# ![mfetch.py](MFETCH.md)
+![megamanoneup](img/m1u.png)
+
+
 ![mario example](img/mario-mytheme.png)
 
 The art is **colored according to your terminal color theme**. The output can have a different personality depending on your color theme.
