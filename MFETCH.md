@@ -61,7 +61,7 @@ in the examples you have to add a new one yourself:
 
 - now, IF 'Marios pants' were 'bright red' instead of 'blue' what would we do?
   we'd search for the index of 'bright red' and put there the index of 'blue'
-                                 /->------------------------->-\
+                                 /->------------------------->-\\
 `col3=["$f0","$f1","$f2","$f3","$f4","$f5","$f6","$f7","$g0","$g1","$g2","$g3","$g4","$g5","$g6","$g7"]`
 
 - so it looks like that
