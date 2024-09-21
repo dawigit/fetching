@@ -1,5 +1,5 @@
 # mfetching.py
-# gif2fetching
+# 
 
 ### The script now contains the gif color palette
  
@@ -33,7 +33,6 @@
 #### 'megaman-one-up'
 
 `./mfetching.py -x176 -y88 -W16 -H16 ./megaman.gif > my;chmod +x my;./my`
-
 
 #### 'megaman_6' from pos x,y use W,H sized rect
 
