@@ -13,6 +13,10 @@
 The goal is to add a touch of beauty to your terminal, and trigger a sense of play.
 
 # ![mfetching.py](MFETCHING.md)
+```
+cd img
+./mfetching.py -x176 -y88 -W16 -H16 -f1 ./megaman.gif > my;chmod +x my;./my
+```
 ![megamanoneup](img/m1u.png)
 
 ##### mfetching.py script is in `./img/`
