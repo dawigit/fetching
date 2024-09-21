@@ -12,8 +12,10 @@
 
 The goal is to add a touch of beauty to your terminal, and trigger a sense of play.
 
-# ![mfetch.py](MFETCH.md)
+# ![mfetching.py](MFETCHING.md)
 ![megamanoneup](img/m1u.png)
+
+##### mfetching.py script is in `./img/`
 
 
 ![mario example](img/mario-mytheme.png)
