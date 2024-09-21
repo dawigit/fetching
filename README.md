@@ -20,6 +20,10 @@ cd img
 ![megamanoneup](img/m1u.png)
 
 ##### mfetching.py script is in `./img/`
+![megaman](https://github.com/user-attachments/assets/b9f8e1d4-686f-424c-a3fb-be82926121f3) ![smb2mj](https://github.com/user-attachments/assets/361c9b15-2d4b-4d00-b744-8181d27ae663) ![smb2toad_sm](https://github.com/user-attachments/assets/1491fdc9-9cab-4bce-b79a-4ec3a7b11ef8)
+
+
+
 
 
 ![mario example](img/mario-mytheme.png)
